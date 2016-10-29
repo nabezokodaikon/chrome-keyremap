@@ -7,3 +7,4 @@ This extension to change the shourtcut key of Google Chrome.
 ### Move to preview page, to <C-p>.
 ### Move to next page, to <C-n>.
 ### <Esc>, to <C-[>
+### Show history page, to <C-H>
