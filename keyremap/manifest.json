@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Keyremap",
+  "version": "0.1",
+
+  "default_locale": "en",
+  "description": "This extension to change the shourtcut key of Google Chrome.",
+
+  "author": "nabezokodaikon",
+
+  "background": {
+    "scripts": ["eventPage.js"],
+    "persistent": false
+  }
+}
