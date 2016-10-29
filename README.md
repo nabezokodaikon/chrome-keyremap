@@ -6,3 +6,4 @@ This extension to change the shourtcut key of Google Chrome.
 ### <Enter>, to <C-m>.
 ### Move to preview page, to <C-p>.
 ### Move to next page, to <C-n>.
+### <Esc>, to <C-[>
