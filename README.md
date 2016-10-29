@@ -8,3 +8,6 @@ This extension to change the shourtcut key of Google Chrome.
 ### Move to the next page function is assign the <C-n> keys
 ### Escape function is assign the <C-[> keys
 ### Show the history page function is assign the <C-H> keys
+
+## Reference
+* [Chrome Extensionの作り方講座](http://ogatism.jp/chrome_ext_1/)
